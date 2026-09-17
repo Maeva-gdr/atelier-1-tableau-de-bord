@@ -55,9 +55,9 @@ int main(void)
     printf("\n");
     printf("                            ----------------------\n");
     printf("                           |          N           |\n");
-    printf("                           |     NW       NE      |\n");
-    printf("                           |   W      X      E    |\n");
-    printf("                           |     SW       SE      |\n");
+    printf("                           |     NO       NE      |\n");
+    printf("                           |   O      X      E    |\n");
+    printf("                           |     SO       SE      |\n");
     printf("                           |          S           |\n");
     printf("                            ----------------------\n");
     printf("                               CAP : %3d deg (%s)\n", cap, cardinal);
